@@ -1,1 +1,1 @@
-# goruss
+# russ go framework
